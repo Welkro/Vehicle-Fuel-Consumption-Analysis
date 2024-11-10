@@ -395,4 +395,4 @@ The *Vehicle Fuel Consumption Python Data Analysis Application* demonstrates usi
 
 ## Sources
 
-[Dataset](https://www.kaggle.com/datasets/tanishqdublish/vehcile-fuel-consumption)
+[Kaggle - Vehicle Fuel Consumption Dataset](https://www.kaggle.com/datasets/tanishqdublish/vehcile-fuel-consumption)
