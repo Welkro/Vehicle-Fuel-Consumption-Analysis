@@ -16,7 +16,7 @@ ideal for real-time data simulation applications, making it an excellent choice 
 
 ## **Setting Up Python Environment**
 
-To set up the Python environment for this project, you need to install Python and the necessary libraries. This includes installing LightningChart Python and Pandas.
+To set up the Python environment for this project, you need to install Python and the necessary libraries. This includes installing LightningChart Python, Pandas and Numpy.
 
 Here's a quick setup guide:
 
